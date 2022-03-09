@@ -1,0 +1,4 @@
+pageObject\PageObjectManager.class
+pageObject\CheckoutPage.class
+pageObject\SearchPage.class
+pageObject\offerPage.class
