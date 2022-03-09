@@ -40,6 +40,7 @@ public class offerPageStepdefinations {
 		testcontextsetup.Details_Page_ProductName = offerpage.getProductName();
 		System.out.println(testcontextsetup.Details_Page_ProductName);
 		System.out.println(testcontextsetup.Details_Page_ProductName);
+		System.out.println(testcontextsetup.Details_Page_ProductName);
 	}
 
 	public void switchtochildwindow() throws Exception {
